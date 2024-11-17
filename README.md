@@ -22,8 +22,7 @@ Below are the tools and technologies I frequently work with:
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
     <img width="25" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
-    <img width="25" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="45" alt="JavaScript" />    <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo" />
     <img width="25" />
     <img src="https://cdn.simpleicons.org/wordpress/21759B" height="60" alt="wordpress logo" />
@@ -34,7 +33,7 @@ Below are the tools and technologies I frequently work with:
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
     <img width="25" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo" />
     <img width="25" />
