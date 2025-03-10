@@ -36,6 +36,10 @@ Below are the tools and technologies I frequently work with:
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
     <img width="25" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+    <img width="25" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+    <img width="25" />
     <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo" />
