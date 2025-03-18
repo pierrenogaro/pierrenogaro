@@ -50,6 +50,8 @@ Below are the tools and technologies I frequently work with:
     <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
     <img width="25" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
+    <img width="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
     <img width="25" />
     <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
